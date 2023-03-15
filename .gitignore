@@ -1,0 +1,8 @@
+Lib
+Scripts
+pyvenv.cfg
+bucketList.csv
+rough.py
+rough.json
+.idea
+__pycache__
